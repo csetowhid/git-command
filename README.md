@@ -16,6 +16,9 @@
 ### Commit Rollback
 - `git reset HEAD~`
 
+### Hard Rollback
+- `git reset --hard`
+
 ### Force Commit
 
 `git add .`\
