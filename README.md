@@ -13,6 +13,8 @@
 ### Stage To Local
 - `git reset`
 
+### Commit Rollback
+- `git reset HEAD~`
 
 ### Force Commit
 
