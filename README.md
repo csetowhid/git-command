@@ -19,6 +19,12 @@
 ### Hard Rollback
 - `git reset --hard`
 
+### Rollback File
+- `git checkout filename`
+
+### Rollback Deleted File (All)
+- `git checkout -f`
+
 ### Force Commit
 
 `git add .`\
