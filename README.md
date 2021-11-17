@@ -25,6 +25,13 @@
 ### Rollback Deleted File (All)
 - `git checkout -f`
 
+### Git Ignore
+- `app.js`
+- `img/`
+- `css/bootstrap.css`
+- `*.jpg`
+- `*.png`
+
 ### Force Commit
 
 `git add .`\
