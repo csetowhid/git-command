@@ -57,3 +57,6 @@
 `Enter`\
 `ctrl + x`\
 `git push origin <branch name> --force`
+
+### Make Alias
+- `alias gc="git commit"`
