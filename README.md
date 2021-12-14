@@ -4,6 +4,9 @@
 - `git add --all`
 - `git add -A`
 
+### Clean Untracked File
+- `git clean -f -n`
+- `git clean -f`
 ### Stage All From Specific Folder
 - `git add .`
 
@@ -24,6 +27,20 @@
 
 ### Rollback Deleted File (All)
 - `git checkout -f`
+
+### Temporary Commit
+- `git stash`
+
+### Temporary Commit List
+- `git stash list`
+### Get Temporary Commit
+- `git stash pop`
+
+### Get Temporary Commit
+- `git stash pop stash@{1}`
+
+### Get Temporary Commit Clear
+- `git stash clear`
 
 ### Git Ignore
 - `app.js`
