@@ -60,3 +60,16 @@
 
 ### Make Alias
 - `alias gc="git commit"`
+
+### Git Update
+```
+sudo add-apt-repository ppa:git-core/ppa -y
+sudo apt-get update
+sudo apt-get install git -y
+git --version
+```
+
+### Credential Store
+```
+git config credential.helper store
+```
