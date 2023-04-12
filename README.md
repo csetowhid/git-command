@@ -101,3 +101,9 @@ Create a system config:
 git config --system user.name "John Doe"
 git config --system user.email "johndoe@example.com"
 ```
+
+Change Remote Url from HTTPS to SSH:
+
+```
+git remote set-url origin git@github.com:OWNER/REPOSITORY.git
+```
