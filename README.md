@@ -33,6 +33,10 @@
 
 ### Temporary Commit List
 - `git stash list`
+- `git stash show`
+- `git stash show -p`
+- `git stash show -p 0`
+
 ### Get Temporary Commit
 - `git stash pop`
 
